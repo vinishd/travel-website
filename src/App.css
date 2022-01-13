@@ -1,3 +1,5 @@
+
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -17,7 +19,7 @@
 }
 
 .services {
-  background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fdepositphotos.com%2Fstock-photos%2Four-services.html&psig=AOvVaw28Efj7QkaQPMvREiygor4z&ust=1641743125058000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIit3O-_ovUCFQAAAAAdAAAAABAI');
+  background-image: url('/src/components/image-1.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -26,7 +28,7 @@
 }
 
 .roommates {
-  background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt5720328%2F&psig=AOvVaw3uS75TgEqzdn4VtoHmR4CC&ust=1641743330013000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCp09HAovUCFQAAAAAdAAAAABAE');
+  background-image: url('/src/components/image-2.jpg');
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -35,7 +37,7 @@
 }
 
 .sign-up {
-  background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fdepositphotos.com%2Fstock-photos%2Fsignup.html&psig=AOvVaw2gObiD_c_GTEEuwA2Rf-rP&ust=1641743365875000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDDpOPAovUCFQAAAAAdAAAAABAZ');
+  background-image: url('/src/components/image-3.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
