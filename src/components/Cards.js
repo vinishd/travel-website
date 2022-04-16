@@ -13,19 +13,19 @@ function Cards() {
             <div className='cards__container'>
                 <div className='cards__wrapper'>
                     <ul className='cards__items'>
-                        <CardItem src = {image} text = "explore the beutiful land of Alberquerque"
+                        <CardItem src = {image} text = "Explore the beautiful land of Alberquerque"
                         label='Adventure!'
                         path = '/services' />
-                        <CardItem src = {image2} text = "explore the beutiful land of Russia"
+                        <CardItem src = {image2} text = "Explore the beautiful land of Russia"
                         label='Fun with the family!'
                         path = '/services' />
                         
                     </ul>
                     <ul className='cards__items'>
-                        <CardItem src = {image3} text = "take risks by walking across mountains"
+                        <CardItem src = {image3} text = "Take risks by walking across mountains"
                         label='Adventure!'
                         path = '/services' />
-                        <CardItem src = {image4} text = "go hiking"
+                        <CardItem src = {image4} text = "Go hiking"
                         label='Hiking!'
                         path = '/services' />
                     </ul>
